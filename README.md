@@ -10,3 +10,5 @@ You would need to create files/folders as needed, and also amend the file paths 
 If you would like to optimise, Feel free to throw a PR up.
 
 Thanks for using.
+
+Note: I would like it to create the folders automatically too, But Meh...
